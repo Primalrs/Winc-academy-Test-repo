@@ -1,1 +1,3 @@
-Just testing functionallity of Github connections
+Just testing functionallity of Github connections // change test
+
+additonal commit 1 - test
